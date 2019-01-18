@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  padding-top: 8em;
+  color: white;
+  text-shadow: 2px 1px black;
+  text-transform: uppercase;
+  background-image: url("../img/slide1.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
