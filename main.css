@@ -1,11 +1,37 @@
-h1{
+
+.logoone{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+#top-splash{
   text-align: center;
-  padding-top: 8em;
+  padding-top: 500px;
   color: white;
   text-shadow: 2px 1px black;
   text-transform: uppercase;
-  background-image: url("../img/slide1.jpg") ;
+  background-image: url("skylinebg.jpg") ;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
+
+#mission{
+
+}
+
+#about{
+
+}
+
+#news{
+  text-align: center;
+  padding-bottom: 500px;
+  color: white;
+  text-shadow: 2px 1px black;
+  text-transform: uppercase;
+  background-image: url("opendeskbg.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover
