@@ -5,6 +5,13 @@
   margin-right: 20px;
 }
 
+/* Sudo Classes */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 #top-splash{
   text-align: center;
   padding-top: 500px;
@@ -34,4 +41,9 @@
   background-image: url("opendeskbg.jpg") ;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover
+  background-size: cover}
+
+#aboutpp{
+  width: 20%;
+  border-radius: 50%;
+  }
