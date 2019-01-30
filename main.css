@@ -9,6 +9,12 @@ Gray	#808080	(128,128,128) */
   margin-right: 20px;
 }
 
+/* Sudo Classes */
+/* .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
 
 
 #top-splash{
@@ -41,6 +47,11 @@ Gray	#808080	(128,128,128) */
 #about{
   padding: 0%;
   margin: 5%;
+  text-align: center;
+}
+
+.about{
+  vertical-align: middle;
 }
 
 #news{
@@ -57,7 +68,6 @@ Gray	#808080	(128,128,128) */
 #aboutpp{
   width: 20%;
   border-radius: 50%;
-  float: left;
   }
 
   /* Maroon	#800000	(128,0,0)
@@ -76,11 +86,4 @@ Gray	#808080	(128,128,128) */
   margin-top: 30px;
   border-style: solid;
   border-color: #800000;
-}
-
-/* Sudo Classes */
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
