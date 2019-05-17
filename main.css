@@ -13,6 +13,8 @@ Gray	#808080	(128,128,128) */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
 }
 
 .container-items{
@@ -70,10 +72,11 @@ Gray	#808080	(128,128,128) */
   color: white;
   text-shadow: 2px 1px black;
   text-transform: uppercase;
-  /* background-image: url("opendeskbg.jpg") ; */
+  background-image: url("opendeskbg.jpg") ;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover}
+  background-size: cover
+}
 
 #aboutpp{
   width: 20%;
