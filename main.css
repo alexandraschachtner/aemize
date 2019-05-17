@@ -66,11 +66,11 @@ Gray	#808080	(128,128,128) */
 
 #news{
   text-align: center;
-  padding-bottom: 500px;
+  padding-bottom: ;
   color: white;
   text-shadow: 2px 1px black;
   text-transform: uppercase;
-  background-image: url("opendeskbg.jpg") ;
+  /* background-image: url("opendeskbg.jpg") ; */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover}
