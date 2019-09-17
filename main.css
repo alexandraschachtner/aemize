@@ -9,17 +9,6 @@ Gray	#808080	(128,128,128) */
   margin-right: 20px;
 }
 
-.container{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: baseline;
-}
-
-.container-items{
-   flex-grow: <number>;
-}
 
 /* Sudo Classes */
 /* .clearfix::after {
@@ -50,39 +39,38 @@ Gray	#808080	(128,128,128) */
 #mission{
   text-align: center;
   padding-top: 10%;
-  padding-bottom: 10%;
+  padding-bottom: 5%;
   color: black;
   text-shadow: 2px 1px silver;
   text-transform: uppercase;
 }
 
 #about{
-  padding: 0%;
   margin: 5%;
+  padding-bottom: 3%;
   text-align: center;
-}
-
-.about{
-  vertical-align: middle;
 }
 
 #news{
   text-align: center;
-  padding-bottom: ;
   color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
   text-shadow: 2px 1px black;
   text-transform: uppercase;
-  background-image: url("opendeskbg.jpg") ;
+  background-color:silver;
+  /* background-image: url("opendeskbg.jpg") ;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover
+  background-size: cover */
 }
 
 #aboutpp{
-  width: 20%;
+  width: 50%;
   border-radius: 50%;
-  padding: 10px;
-  margin: 10px;
+  align-self: center;
+  padding: 1%;
+  margin: 1%;
   }
 
   /* Maroon	#800000	(128,0,0)
