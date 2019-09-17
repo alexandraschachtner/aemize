@@ -1,0 +1,90 @@
+/* Maroon	#800000	(128,0,0)
+Silver	#C0C0C0	(192,192,192)
+Gray	#808080	(128,128,128) */
+
+
+.logoone{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+
+/* Sudo Classes */
+/* .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+
+#top-splash{
+  text-align: center;
+  padding-top: 8%;
+  padding-bottom: 20%;
+  color: black;
+  /* text-shadow: 2px 1px gray; */
+  text-transform: uppercase;
+  background-image: url("skylinebg.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#top-splash-logo{
+  width: 10%;
+  height: 10%;
+}
+
+#mission{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  color: black;
+  text-shadow: 2px 1px silver;
+  text-transform: uppercase;
+}
+
+#about{
+  margin: 5%;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+#news{
+  text-align: center;
+  color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-shadow: 2px 1px black;
+  text-transform: uppercase;
+  background-color:silver;
+  /* background-image: url("opendeskbg.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover */
+}
+
+#aboutpp{
+  width: 50%;
+  border-radius: 50%;
+  align-self: center;
+  padding: 1%;
+  margin: 1%;
+  }
+
+  /* Maroon	#800000	(128,0,0)
+  Silver	#C0C0C0	(192,192,192)
+  Gray	#808080	(128,128,128) */
+
+#contact{
+  width: 100%;
+  padding: 16px;
+  background-image: url("") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: ;
+  background-blend-mode: screen;
+  margin-top: 30px;
+  }
